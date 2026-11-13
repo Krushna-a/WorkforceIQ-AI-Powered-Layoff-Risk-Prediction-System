@@ -1,0 +1,34 @@
+# Core ML & Data Processing
+pandas==2.1.4
+numpy==1.26.2
+scikit-learn==1.3.2
+xgboost==2.0.3
+
+# Financial Data
+yfinance==0.2.33
+
+# Explainable AI
+shap==0.44.0
+
+# API & Backend
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+
+# Frontend (Streamlit option)
+streamlit==1.29.0
+
+# Utilities
+python-dotenv==1.0.0
+joblib==1.3.2
+requests==2.31.0
+
+# Jupyter for notebooks
+jupyter==1.0.0
+ipykernel==6.27.1

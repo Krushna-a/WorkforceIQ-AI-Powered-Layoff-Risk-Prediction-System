@@ -1,0 +1,12 @@
+{
+  "features": [
+    "funding_amount",
+    "employee_count",
+    "growth_rate",
+    "valuation"
+  ],
+  "n_features": 4,
+  "roc_auc": 0.6422780383117399,
+  "training_samples": 6400,
+  "test_samples": 1600
+}

@@ -1,0 +1,9 @@
+Column,Type,Description
+company,string,Unique company identifier
+industry,string,Industry sector
+country,string,Country of headquarters
+funding_amount,number,Total funding in USD
+employee_count,number,Number of employees
+growth_rate,number,Year-over-year growth rate (%)
+valuation,number,Company valuation in USD
+layoff_happened,target,Target variable to predict
