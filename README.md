@@ -18,7 +18,8 @@ The interactive dashboard provides:
 - Company metrics overview
 - Risk level categorization (LOW/MEDIUM/HIGH)
 
-*Note: Add screenshots by running the application and capturing the dashboard interface*
+<img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/87df4782-0e8f-4960-8872-f4954fafdc92" />
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/eb22ddca-6577-4845-b2c7-8bd237a1fc41" />
 
 ## 🎯 Key Features
 
